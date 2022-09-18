@@ -28,12 +28,12 @@ const Work = () => {
                 Aplicación To Do List
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://react-todo-list-a375a.web.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Web
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/yefrid18/react-todo-list'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
@@ -53,12 +53,12 @@ const Work = () => {
                 Aplicación del Clima
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://react-app-clima.web.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Web
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/yefrid18/react-app-clima'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
@@ -78,12 +78,12 @@ const Work = () => {
                 Aplicación Landing Page
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://yefrid18-landing-page.web.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Web
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/yefrid18/yefrid18-landing-page'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
